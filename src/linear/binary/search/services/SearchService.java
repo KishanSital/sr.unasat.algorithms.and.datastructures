@@ -13,7 +13,7 @@ public interface SearchService {
 
     String[] getTextArray();
 
-    int recursiveTextBinarySearch(String arr[], int l, int r, String x);
+    int textBinarySearchIterative(String arr[], int l, int r, String x);
 
     int textBinarySearch(String arr[], String x);
 

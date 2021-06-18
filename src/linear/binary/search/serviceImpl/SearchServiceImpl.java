@@ -68,7 +68,7 @@ public class SearchServiceImpl implements SearchService {
 
 
     @Override
-    public int recursiveTextBinarySearch(String arr[], int l, int r, String x) {
+    public int textBinarySearchIterative(String arr[], int l, int r, String x) {
         Arrays.sort(arr);
         while (l <= r) {
             int m = l + (r - l) / 2;

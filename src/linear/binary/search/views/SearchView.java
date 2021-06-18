@@ -63,7 +63,7 @@ public class SearchView {
 
         int arrayEndingIndex = searchService.getTextArray().length - 1;
         String arraySearchingValue = scanner.next();
-        int arraySearchingResult = searchService.recursiveTextBinarySearch(searchService.getTextArray(),
+        int arraySearchingResult = searchService.textBinarySearchIterative(searchService.getTextArray(),
                 arrayStartingIndex,
                 arrayEndingIndex,
                 arraySearchingValue);
