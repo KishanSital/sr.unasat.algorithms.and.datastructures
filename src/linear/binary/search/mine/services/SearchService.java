@@ -1,6 +1,6 @@
-package linear.binary.search.services;
+package linear.binary.search.mine.services;
 
-import linear.binary.search.models.PersonModel;
+import linear.binary.search.mine.models.PersonModel;
 
 public interface SearchService {
     int[] getNumbersArray();

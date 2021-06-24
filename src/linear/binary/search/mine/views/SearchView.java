@@ -1,7 +1,7 @@
-package linear.binary.search.views;
+package linear.binary.search.mine.views;
 
-import linear.binary.search.models.PersonModel;
-import linear.binary.search.services.SearchService;
+import linear.binary.search.mine.models.PersonModel;
+import linear.binary.search.mine.services.SearchService;
 
 import java.util.Scanner;
 import java.util.function.Consumer;

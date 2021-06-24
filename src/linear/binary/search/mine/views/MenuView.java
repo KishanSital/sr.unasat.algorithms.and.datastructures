@@ -1,6 +1,6 @@
-package linear.binary.search.views;
+package linear.binary.search.mine.views;
 
-import linear.binary.search.services.MenuService;
+import linear.binary.search.mine.services.MenuService;
 
 
 import java.util.ArrayList;

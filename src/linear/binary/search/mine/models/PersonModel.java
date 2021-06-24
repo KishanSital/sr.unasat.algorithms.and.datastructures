@@ -1,4 +1,4 @@
-package linear.binary.search.models;
+package linear.binary.search.mine.models;
 
 public class PersonModel {
     private String lastName;

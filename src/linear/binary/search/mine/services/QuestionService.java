@@ -1,4 +1,4 @@
-package linear.binary.search.services;
+package linear.binary.search.mine.services;
 
 public interface QuestionService {
     String algorithmAnswer();

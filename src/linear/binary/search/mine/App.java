@@ -1,14 +1,14 @@
-package linear.binary.search;
+package linear.binary.search.mine;
 
-import linear.binary.search.repositories.SearchRepository;
-import linear.binary.search.serviceImpl.QuestionServiceImpl;
-import linear.binary.search.serviceImpl.SearchServiceImpl;
-import linear.binary.search.services.MenuService;
-import linear.binary.search.services.QuestionService;
-import linear.binary.search.services.SearchService;
-import linear.binary.search.views.MenuView;
-import linear.binary.search.views.QuestionView;
-import linear.binary.search.views.SearchView;
+import linear.binary.search.mine.repositories.SearchRepository;
+import linear.binary.search.mine.serviceImpl.QuestionServiceImpl;
+import linear.binary.search.mine.serviceImpl.SearchServiceImpl;
+import linear.binary.search.mine.services.MenuService;
+import linear.binary.search.mine.services.QuestionService;
+import linear.binary.search.mine.services.SearchService;
+import linear.binary.search.mine.views.MenuView;
+import linear.binary.search.mine.views.QuestionView;
+import linear.binary.search.mine.views.SearchView;
 
 public class App {
 

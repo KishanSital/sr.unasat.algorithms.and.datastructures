@@ -1,6 +1,6 @@
-package linear.binary.search.views;
+package linear.binary.search.mine.views;
 
-import linear.binary.search.services.QuestionService;
+import linear.binary.search.mine.services.QuestionService;
 
 import java.util.function.Consumer;
 

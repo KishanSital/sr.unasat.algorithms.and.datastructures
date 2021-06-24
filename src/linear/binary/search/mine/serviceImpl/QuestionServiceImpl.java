@@ -1,6 +1,6 @@
-package linear.binary.search.serviceImpl;
+package linear.binary.search.mine.serviceImpl;
 
-import linear.binary.search.services.QuestionService;
+import linear.binary.search.mine.services.QuestionService;
 
 public class QuestionServiceImpl implements QuestionService {
 

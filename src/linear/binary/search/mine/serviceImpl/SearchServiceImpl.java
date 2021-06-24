@@ -1,8 +1,8 @@
-package linear.binary.search.serviceImpl;
+package linear.binary.search.mine.serviceImpl;
 
-import linear.binary.search.models.PersonModel;
-import linear.binary.search.repositories.SearchRepository;
-import linear.binary.search.services.SearchService;
+import linear.binary.search.mine.models.PersonModel;
+import linear.binary.search.mine.repositories.SearchRepository;
+import linear.binary.search.mine.services.SearchService;
 
 import java.util.Arrays;
 
@@ -31,7 +31,7 @@ public class SearchServiceImpl implements SearchService {
 
     @Override
     public int recursiveNumberBinarySearch(int arr[], int l, int r, int x) {
-        Arrays.sort(arr);
+
         if (r >= l) {
             int mid = l + (r - l) / 2;
             //Check if element is present in the middle

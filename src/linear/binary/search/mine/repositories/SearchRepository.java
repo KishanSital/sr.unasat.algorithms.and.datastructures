@@ -1,4 +1,6 @@
-package linear.binary.search.repositories;
+package linear.binary.search.mine.repositories;
+
+import java.util.Arrays;
 
 public class SearchRepository {
 
@@ -21,6 +23,7 @@ public class SearchRepository {
     }
 
     public int[] getNumbersArray(){
+        Arrays.sort(numberArray);
         return numberArray;
     }
 
