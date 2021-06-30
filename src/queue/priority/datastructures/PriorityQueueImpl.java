@@ -1,7 +1,7 @@
-package linear.binary.search.queue.priority.datastructures;
+package queue.priority.datastructures;
 
-import linear.binary.search.queue.priority.services.PriorityQueue;
-import linear.binary.search.queue.priority.services.Wachtwoord;
+import queue.priority.services.PriorityQueue;
+import queue.priority.services.Wachtwoord;
 
 public class PriorityQueueImpl implements PriorityQueue {
     private int maxSize;

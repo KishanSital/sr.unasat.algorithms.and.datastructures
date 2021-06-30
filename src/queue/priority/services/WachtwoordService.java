@@ -1,7 +1,6 @@
-package linear.binary.search.queue.priority.services;
+package queue.priority.services;
 
-import linear.binary.search.queue.priority.datastructures.PriorityQueueImpl;
-import linear.binary.search.queue.priority.entities.WachtwoordEntity;
+import queue.priority.entities.WachtwoordEntity;
 
 public class WachtwoordService {
     private PriorityQueue priorityQueue;

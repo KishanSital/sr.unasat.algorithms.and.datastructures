@@ -1,11 +1,11 @@
-package linear.binary.search.queue.priority.app;
+package queue.priority.app;
 
 
-import linear.binary.search.queue.priority.datastructures.PriorityQueueImpl;
-import linear.binary.search.queue.priority.entities.WachtwoordEntity;
-import linear.binary.search.queue.priority.serviceImpl.WachtwoordImpl;
-import linear.binary.search.queue.priority.services.PriorityQueue;
-import linear.binary.search.queue.priority.services.WachtwoordService;
+import queue.priority.datastructures.PriorityQueueImpl;
+import queue.priority.entities.WachtwoordEntity;
+import queue.priority.serviceImpl.WachtwoordImpl;
+import queue.priority.services.PriorityQueue;
+import queue.priority.services.WachtwoordService;
 
 public class App {
     public static void main(String[] args) {

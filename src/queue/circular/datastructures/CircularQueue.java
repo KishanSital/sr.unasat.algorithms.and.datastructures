@@ -1,4 +1,4 @@
-package linear.binary.search.queue.circular.datastructures;
+package queue.circular.datastructures;
 
 public class CircularQueue {
     int size; // Size of Circular Queue

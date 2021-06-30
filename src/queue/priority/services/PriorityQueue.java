@@ -1,4 +1,4 @@
-package linear.binary.search.queue.priority.services;
+package queue.priority.services;
 
 public interface PriorityQueue {
 

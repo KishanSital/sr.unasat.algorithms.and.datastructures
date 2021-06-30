@@ -1,6 +1,6 @@
-package linear.binary.search.queue.circular.app;
+package queue.circular.app;
 
-import linear.binary.search.queue.circular.datastructures.CircularQueue;
+import queue.circular.datastructures.CircularQueue;
 
 public class App {
     public static void main(String[] args) {

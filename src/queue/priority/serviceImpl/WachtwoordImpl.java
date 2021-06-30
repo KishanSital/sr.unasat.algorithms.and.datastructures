@@ -1,7 +1,7 @@
-package linear.binary.search.queue.priority.serviceImpl;
+package queue.priority.serviceImpl;
 
-import linear.binary.search.queue.priority.entities.WachtwoordEntity;
-import linear.binary.search.queue.priority.services.Wachtwoord;
+import queue.priority.entities.WachtwoordEntity;
+import queue.priority.services.Wachtwoord;
 
 public class WachtwoordImpl implements Wachtwoord {
 

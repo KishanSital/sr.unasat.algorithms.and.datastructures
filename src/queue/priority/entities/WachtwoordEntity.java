@@ -1,4 +1,4 @@
-package linear.binary.search.queue.priority.entities;
+package queue.priority.entities;
 
 public class WachtwoordEntity {
      private long priority;

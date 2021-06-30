@@ -1,4 +1,4 @@
-package linear.binary.search.Sorting;
+package Sorting;
 
 public class InsertionSort {
 
